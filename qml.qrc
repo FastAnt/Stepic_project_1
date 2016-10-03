@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>anonymous.jpg</file>
+        <file>2.png</file>
+        <file>gandi.jpg</file>
+        <file>Registrate.qml</file>
+        <file>tsoy.jpg</file>
+    </qresource>
+</RCC>
